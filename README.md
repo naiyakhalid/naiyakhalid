@@ -7,7 +7,8 @@
 - 5+ years experience in ESL teaching, specializing in young learners, focusing on fostering language acquisition and cultural understanding in China.
 - Additional Bachelor's in English, complemented by TEFL and TESOL certifications, provides a strong language education foundation.
 
-📫 How to reach me naiyakhalid@gmail.com
+## 📫 How to reach me
+
 📩 [naiyakhalid@gmail.com](mailto:naiyakhalid@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/naiya-khalid-510981130/)  
 🌐 [GitHub](https://github.com/naiyakhalid)  
