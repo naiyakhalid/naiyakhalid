@@ -1,3 +1,5 @@
+# Naiya Khalid
+
 - 👋 Hi, I’m Naiya Khalid. Data Science Student | Mathematics Teacher |
 - 💞️ I’m open to collaborating on some Intermediate level data science projects.
 - Recently transitioned into the world of Data Science, currently immersed in a Master's program to deepen understanding. Driven by a genuine passion to apply analytical skills and educational background to shape data-driven approaches.
