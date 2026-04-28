@@ -28,6 +28,7 @@ I can help you with:
 # Research Publication
 Short-term Electricity Price Forecasting: A Study in the Iberian Market — published in Procedia Computer Science (2026). 
 In this work, I developed and evaluated time-series forecasting models using real-world Iberian energy market data. The study focuses on capturing price patterns and volatility to improve short-term forecasting accuracy.
+[Short-term Electricity Price Forecasting: A Study in the Iberian Market](https://www.sciencedirect.com/science/article/pii/S1877050926006551)
 
 ## Key contributions:
 - Applied machine learning models for time-series forecasting
@@ -37,8 +38,9 @@ In this work, I developed and evaluated time-series forecasting models using rea
 
 If you need someone who can analyse your data, build dashboards, or extract insights that actually help your business, I’d be happy to work with you.
 
-## 📫 How to reach me
+# 📫 How to reach me
 📩 [naiyakhalid@gmail.com](mailto:naiyakhalid@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/naiya-khalid-510981130/)  
 🌐 [GitHub](https://github.com/naiyakhalid)  
 🌐 [Kaggle](https://www.kaggle.com/naiyakhalid)
+
