@@ -43,4 +43,5 @@ If you need someone who can analyse your data, build dashboards, or extract insi
 🌐 [LinkedIn](https://www.linkedin.com/in/naiya-khalid-510981130/)  
 🌐 [GitHub](https://github.com/naiyakhalid)  
 🌐 [Kaggle](https://www.kaggle.com/naiyakhalid)
+🌐 [Portfolio](https://naiya-khalid-portfolio.lovable.app/)
 
